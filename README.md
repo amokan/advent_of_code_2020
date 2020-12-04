@@ -31,9 +31,3 @@ Elixir-based solutions for [Advent of Code 2020](https://adventofcode.com/2020).
 ## Unit Tests (If any exist)
 
   Run `mix test` to process the test suite.
-
-----
-
-## Manually Build Docs
-
-  Run `mix docs && open doc/index.html` to update and launch the documentation for the internal modules/api
